@@ -13,3 +13,8 @@ HTML code is located in `index.html`, which dynamically fetches Bootstrap 4 depe
 **Testing**
 
 Testing procedure for this specific task covers latest version of Chrome with following screen widths: 1280px, 768px, 640px, 320px. You can get extra points for pointing out solutions that won't work in IE11 with suggestions of how to resolve them – no actual work is required to fix issues though.
+
+<!--
+    Flex-box: IE nie wspiera w pełni flex-boxów, przez co układ nie jest poprawnie renderowany. Sposobem na rozwiązanie tego problemu może być użycie float, chociaż ja osobiście wolę wyświetlanie elementów jako inline-block.
+    Picture: IE oraz Edge 12 nie wspierają elementu picture. Zamiast tego można użyć np obrazów w tle warstwy - background-image elementu div
+-->

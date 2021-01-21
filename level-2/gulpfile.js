@@ -10,9 +10,12 @@ const cssnano = require('cssnano');
 var replace = require('gulp-replace');
 
 // File paths
-const files = { 
-    scssPath: 'scss/**/*.scss',
-    jsPath: 'js/**/*.js'
+const files = {
+    // scssPath: 'scss/**/*.scss',
+    // jsPath: 'js/**/*.js'
+    /* według treści zadania pliki miały się znajdować w folderze assets */
+    scssPath: 'assets/**/*.scss',
+    jsPath: 'assets/**/*.js'
 }
 
 function scssTask(){    

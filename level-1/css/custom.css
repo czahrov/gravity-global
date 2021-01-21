@@ -1,0 +1,52 @@
+body {
+  font-weight: 300;
+}
+
+.post_card .content .box .button button, .post_card .content .box .title {
+  font-weight: 700;
+}
+
+body {
+  padding: 100px 0;
+  background-color: #F0F0F0;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  cursor: default;
+}
+
+.post_card {
+  background-color: #fff;
+}
+.post_card .picture picture img {
+  width: 100%;
+  height: 100%;
+}
+.post_card .content .box {
+  width: 100%;
+  max-width: 350px;
+  height: 407px;
+}
+.post_card .content .box .title {
+  margin-top: 24.57%;
+  font-size: 42px;
+}
+.post_card .content .box .text {
+  margin-top: 12.28%;
+}
+.post_card .content .box .button {
+  margin-top: 10%;
+}
+.post_card .content .box .button button {
+  padding: 14px;
+  min-width: 135px;
+  background-color: #E4C1AE;
+  color: #fff;
+  border: none;
+  border-radius: 2em;
+  outline: none;
+  cursor: pointer;
+  line-height: 1.2em;
+}
+
+/*# sourceMappingURL=file:///D:/Praca/Gravity%20Global/front-end-recruitment-task/level-1/scss/custom.scss */
+/*# sourceMappingURL=custom.css.map */

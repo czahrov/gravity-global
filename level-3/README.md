@@ -24,6 +24,10 @@ Image assets are located in `assets/images` directory.
 
 Testing procedure for this specific task covers latest version of Chrome with following screen widths: 1280px, 768px, 640px, 320px. You can get extra points for pointing out solutions that won't work in IE11 with suggestions of how to resolve them – no actual work is required to fix issues though.
 
+<!--
+    Zadanie pozostawiam nierozwiązane. Miałem problem z uruchomieniem dostarczonej wersji pliku gulp.
+-->
+
 ## Workflow
 
 1. Install all required dependencies - `npm install`

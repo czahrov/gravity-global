@@ -1,0 +1,1 @@
+$(function(){$("button.cta").tooltip()});
